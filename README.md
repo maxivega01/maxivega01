@@ -17,9 +17,7 @@ Este repositorio tiene como objetivo servir como una introducción a quién soy 
 - Lenguajes de programación: Java, JavaScript, Python
 - Tecnologías web: HTML
 - Bases de datos: SQL
-- Frameworks y bibliotecas:
-  - Front-end: React.js
-  - Back-end: Node.js
+- Frameworks y bibliotecas: React.js, Node.js
 
 - Habilidades adicionales: Español, Inglés (FCE B2), Italiano
 
@@ -27,9 +25,7 @@ Este repositorio tiene como objetivo servir como una introducción a quién soy 
 
 Aquí hay algunos proyectos en los que he estado trabajando recientemente:
 
-- Nombre del Proyecto 1 - Breve descripción del proyecto y tecnologías utilizadas.
-- Nombre del Proyecto 2 - Breve descripción del proyecto y tecnologías utilizadas.
-- Nombre del Proyecto 3 - Breve descripción del proyecto y tecnologías utilizadas.
+- Biblioteca-Medios-Digitales: un proyecto de java utilizando Maven y el framework Spring-Boot realizado para la materia Backend de Aplicaciones, en la cual se pide un software capaz de realizar operaciones CRUD a Objetos almacenados en una base de datos provista.
 
 ## Cómo contactarme
 
