@@ -28,14 +28,15 @@ Este repositorio tiene como objetivo servir como una introducción a quién soy 
 
 Aquí hay algunos proyectos en los que he estado trabajando recientemente:
 
-Nombre del Proyecto 1 - Breve descripción del proyecto y tecnologías utilizadas.
-Nombre del Proyecto 2 - Breve descripción del proyecto y tecnologías utilizadas.
-Nombre del Proyecto 3 - Breve descripción del proyecto y tecnologías utilizadas.
-Cómo contactarme
+- Nombre del Proyecto 1 - Breve descripción del proyecto y tecnologías utilizadas.
+- Nombre del Proyecto 2 - Breve descripción del proyecto y tecnologías utilizadas.
+- Nombre del Proyecto 3 - Breve descripción del proyecto y tecnologías utilizadas.
+
+## Cómo contactarme
 
 Si quieres ponerte en contacto, puedes hacerlo a través de:
 
-Correo electrónico: vegamaxi@icloud.com
-LinkedIn: www.linkedin.com/in/máximo-vega-marconetto
+- Correo electrónico: vegamaxi@icloud.com
+- LinkedIn: www.linkedin.com/in/máximo-vega-marconetto
 
 ¡Espero que disfrutes explorando mi perfil de GitHub!
