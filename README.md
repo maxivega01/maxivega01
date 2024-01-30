@@ -2,12 +2,11 @@
 
 ## Bienvenido a mi perfil de GitHub
 
-¡Hola! Mi nombre es Máximo Vega Marconetto y soy estudiante de ingeniería en sistemas. Bienvenido a mi repositorio de presentación en GitHub, donde puedes conocer un poco más sobre mí y mis proyectos.
+¡Hola! Mi nombre es Máximo Vega Marconetto y soy estudiante de ingeniería en sistemas de información. Bienvenido a mi repositorio de presentación en GitHub, donde puedes conocer un poco más sobre mí y mis proyectos.
 
 ## Sobre mí
 
-Actualmente me encuentro estudiando ingeniería en sistemas en la Universidad Tecnológica Nacional, en Córdoba, Argentina y ya voy por mi cuarto año. 
-Estoy en busqueda de mi primera experiencia laboral para poder aplicar los conocimientos aprendidos en la carrera y ansioso por expandirlos. Presento un interés en el desarrollo de software y Web, tanto back-end como front-end.
+Actualmente estoy cursando 4to año de Ingeniería en Sistemas de Información. Soy proactivo y organizado con sólidas habilidades interpersonales. Aunque carezco de experiencia laboral en el área, he demostrado capacidad de adaptación, resolución de problemas y aprendizaje en diversas situaciones. Ansioso por iniciar mi carrera en desarrollo de software y continuar fortaleciendo mis habilidades.
 
 ## Objetivo del repositorio
 
@@ -22,7 +21,7 @@ Este repositorio tiene como objetivo servir como una introducción a quién soy 
   - Front-end: React.js
   - Back-end: Node.js
 
-- Habilidades adicionales: Español, Inglés, Italiano
+- Habilidades adicionales: Español, Inglés (FCE B2), Italiano
 
 ## Proyectos destacados
 
