@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-Actualmente estoy cursando 4to año de Ingeniería en Sistemas de Información. Soy proactivo y organizado con sólidas habilidades interpersonales. Aunque carezco de experiencia laboral en el área, he demostrado capacidad de adaptación, resolución de problemas y aprendizaje en diversas situaciones. Ansioso por iniciar mi carrera en desarrollo de software y continuar fortaleciendo mis habilidades.
+Actualmente estoy cursando 5to año de Ingeniería en Sistemas de Información. Soy proactivo y organizado con sólidas habilidades interpersonales. Aunque carezco de experiencia laboral en el área, he demostrado capacidad de adaptación, resolución de problemas y aprendizaje en diversas situaciones. Ansioso por iniciar mi carrera en desarrollo de software y continuar fortaleciendo mis habilidades.
 
 ## Objetivo del repositorio
 
